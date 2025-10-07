@@ -17,4 +17,3 @@ Recent advancements in deep learning (transformers & Large-Language Models) and 
 
 3)	Applied financial strategies
 Financial portfolio principles such as asset allocation and portfolio rebalancing are just as (if not more important than) the underlying selection of equities in terms of overarching performance. We aim to better understand how these strategies behave across a range of different conditions, and how advances in artificial intelligence can unlock new insights into these timeless principles, while proposing new directions for the portfolio manager.
-<img width="468" height="642" alt="image" src="https://github.com/user-attachments/assets/a5bdab9e-4c72-4b86-bf6d-4899c28c4a12" />
